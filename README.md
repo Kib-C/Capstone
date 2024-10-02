@@ -1,0 +1,4 @@
+For my capstone project, I was tasked to collect and analyze data to help generate a report on emerging IT skill requirements.  
+My first task involved gathering data on the top in-demand programming skills from a variety of sources, such as job postings, training platforms, and surveys. I focused on identifying trends in programming languages, database skills, and popular IDEs. 
+To collect this data, I utilized web scraping techniques and accessed APIs, compiling information in formats such as .csv files, Excel sheets, and databases.
+After collecting the data, I prepared it for analysis through data wrangling techniques. Once the data was cleaned and organized, I applied statistical methods to uncover insights and trends. I then used IBM Cognos Analytics to create a dashboard that presented the findings visually, and concluded the project by presenting the results in a detailed report.
